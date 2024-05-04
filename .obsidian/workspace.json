@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "7f88a3e0d32b163c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f213ad976c824a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a134376f3ec65c85",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73a3cb4224a0bd1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "71baebc45a056bee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e8b51437868d281",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b3a1e899a118c8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b1aca3d25bc3e2c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c03a490923039d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b23caabdedb281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f608b358f4ffc47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc4f2f90c6689173",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9681c72258170f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a2578843cc648d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a134376f3ec65c85",
+  "lastOpenFiles": [
+    "2024-05-04.md",
+    "Untitled.canvas",
+    "books/atomic-habits.md",
+    "programming/prompt-engineering.md",
+    "cheatsheets/aliases-i-use.md"
+  ]
+}

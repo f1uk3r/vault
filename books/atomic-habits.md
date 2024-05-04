@@ -1,8 +1,8 @@
 # Atomic Habits by James Clear
 
-1. [ Surprising power of Atomic Habits ](#chapter-1)
+1. [Surprising power of Atomic Habits](#chapter-1)
 2. [How your Habits shape your identity](#chapter-2)
-3. [ How to build better habits in 4 Simple Steps ](#chapter-3)
+3. [How to build better habits in 4 Simple Steps](#chapter-3)
 
 <a name="chapter-1"></a>
 ## Surprising power of Atomic Habits
